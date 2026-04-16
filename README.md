@@ -22,7 +22,7 @@ void main(){
   printf("Alô mundo!");
 }
 ```
-![Fluxograma](./atendimento.png)
+![Fluxograma](https://raw.githubusercontent.com/wellifabio/senai2026/main/ds/turmas/1DES_A/LOP/aula10/fluxograma01.png)
 
 ## Expressões matemáticas
 
