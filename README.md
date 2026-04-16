@@ -1,9 +1,9 @@
 # vps01
 # Título: VPS01
-# Subtítulo descrição: Verificação Prática Somativa 01
+## Subtítulo descrição: Verificação Prática Somativa 01
 Arquivos gerados durante a avaliação de Lógica de Programação, algoritmos e fluxogramas
 
-# Tecnologias
+## Tecnologias
 
 |Tecnologia|Utilizade|
 |:-:|-|
