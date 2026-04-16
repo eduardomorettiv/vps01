@@ -14,3 +14,5 @@
 - 1 Clone este repositório
 - 2 Abra os códigos fonte .c com Dev C++
 - 3 Pressione F11 para compilar e executar
+
+###seção
